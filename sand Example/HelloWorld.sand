@@ -1,0 +1,8 @@
+say Hello World
+ask for myName: What's you name?
+say (myName)
+##
+
+    This app may not work but i'm just planning thr programming language.
+
+##
