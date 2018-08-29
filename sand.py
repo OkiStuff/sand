@@ -11,4 +11,6 @@ def sandSyntaxError( error ):
 if ScriptError == true:
     print("Error. Could not detect type of error.")
 else:
+    ScriptError = false
+
     
