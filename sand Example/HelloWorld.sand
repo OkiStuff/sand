@@ -6,3 +6,26 @@ say (myName)
     This app may not work but i'm just planning out the programming language.
 
 ##
+-commands
+say
+ask for varName
+# Single line
+
+##
+
+
+    Two or more lines
+
+
+##
+python3.7 #Opens python command line IDLE
+loop -gotoName 14 #goto name is like -commands. then say the number of times you want it to loop.
+##
+
+
+MORE COMING SOON
+
+
+##
+#last command is....
+goto -commands. #alsmost the same as loop.
