@@ -4,13 +4,12 @@ false = ("false")
 true = ("true")
 filename = null
 ScriptError = false
-
-def sandSyntaxError( error ):
+def sandSyntaxError(error):
     ScriptError = true
     return;
 if ScriptError == true:
     print("Error. Could not detect type of error.")
 else:
     ScriptError = false
-
+if __name__ == "__main__":
     
